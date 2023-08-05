@@ -4,7 +4,7 @@ local player = game.Players.LocalPlayer
 -- Whitelist system by name
 
 local whitelistedname = false
-local whitelistname = {'lololololololo123135', 'deltaninaski', '17kLorys', 'simitistan25', 'xkinq_Fxrce', 'ItzW3xx31', 'becometoprointps', 'deltaninaskiii', 'SanemiBestGiyuu', 'qazztr', 'TPS_BARBAROS', 'GlobalO2', 'OruspuCocuguDelta', 'ZaanoobYT', 'simitistan25', 'UgurcanCakirP', 'izlro', 'YTBR_DEOPBULL1', 'Erincabooo31', 'ablanidelim', 'Daglar358', 'TPSronaldoPLAYER', 'OpsKensh', 'UgurcanCakirP', 'XxFatmq', 'ywoshcomebackk', 'Memoli5666', 'SayoninoALT',} -- has strings ('',"") and in the strings u put the names
+local whitelistname = {'lololololololo123135', 'deltaninaski', '17kLorys', 'simitistan25', 'xkinq_Fxrce', 'ItzW3xx31', 'becometoprointps', 'deltaninaskiii', 'SanemiBestGiyuu', 'qazztr', 'TPS_BARBAROS', 'GlobalO2', 'OruspuCocuguDelta', 'ZaanoobYT', 'simitistan25', 'UgurcanCakirP', 'izlro', 'YTBR_DEOPBULL1', 'Erincabooo31', 'ablanidelim', 'Daglar358', 'TPSronaldoPLAYER', 'OpsKensh', 'UgurcanCakirP', 'XxFatmq', 'ywoshcomebackk', 'Memoli5666', 'SayoninoALT', 'anlkedbytxa999995',} -- has strings ('',"") and in the strings u put the names
 if table.find(whitelistname, player.Name) then
   whitelistedname = true
 else
